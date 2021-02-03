@@ -30,5 +30,5 @@
 
 
 6. What is the best accuracy you can achieve? Are you over 99%? 99.5%?
-![this](reslut.png).  
+![this](hw4/reslut.png) 
 
